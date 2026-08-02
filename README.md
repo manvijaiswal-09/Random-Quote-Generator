@@ -47,7 +47,7 @@ Random-Quote-Generator/
 ## 🔗 Live Demo
 
 **👉 Click here to view the project:**  
-https://your-live-demo-link.com
+ https://manvijaiswal-09.github.io/Random-Quote-Generator/
 
 
 If you like this project, don't forget to ⭐ the repository!
