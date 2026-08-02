@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding :0;
+}
+
+
+body{
+     color:rgb(237, 226, 212);;
+     background-color: black;
+    
+    
+}
+ #button{
+       background-color: rgb(237, 226, 212);
+     /* font-size: 40px; */
+     padding: 12px 24px;
+     font-size: 16px;
+     border-radius: 15px;
+     position: absolute;
+     top: 50%;
+     left:50%;
+     transform: translateX(-50%);
+     
+ }
+ #button:hover{
+      cursor: pointer;
+      opacity: 70%;
+ }
+ #heading{
+    font-size: 57px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     margin-top: 260px;
+ }
+    
